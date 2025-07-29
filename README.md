@@ -2,6 +2,8 @@
 
 所有 HW 皆以 python 進行實作
 
+
+
 📌 HW1
 
 數學推導(https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW1/ML_HW1_Part1_312657008.pdf)
@@ -17,6 +19,8 @@
 2. Steepest descent method
 
 3. Newton's method
+
+
 
 📌 HW2
 
@@ -34,6 +38,8 @@
 
 2. Gamma-Poisson conjugation
 
+
+
 📌 HW3
 
 💻 程式實作 (https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW3/ML_HW3(1)(2)(4)_312657008.py)
@@ -48,6 +54,8 @@
 
 1. Derive the Posterior
 
+
+
 📌 HW4
 
 💻 程式實作 (https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW4/ML_HW4(1)(2)_312657008.py)
@@ -59,6 +67,8 @@
 📝 數學推導 (https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW4/ML_HW4(3)_312657008.pdf)
 
 1. EM algorithm
+
+
 
 📌 HW5
 
@@ -73,6 +83,8 @@
 
 紀錄程式結果
 
+
+
 📌 HW6
 
 💻 程式實作 (https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW6/Source%20code.py)
@@ -84,6 +96,7 @@
 📝 報告 (https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW6/Report.pdf)
 
 紀錄程式結果
+
 
 
 📌 HW7
