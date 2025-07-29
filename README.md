@@ -5,7 +5,9 @@
 📌 HW1
 
 數學推導(https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW1/ML_HW1_Part1_312657008.pdf)
+
 以及
+
 程式實作(https://github.com/YOU-SHAN/Machine-Learning/blob/main/HW1/ML_HW1_Part2_312657008.ipynb)
 
 以下三種方法：
